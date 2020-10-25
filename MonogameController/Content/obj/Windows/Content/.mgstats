@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/School/FA20/GP/MonogameController/MonogameController/Content/BooHide.png","C:/School/FA20/GP/MonogameController/MonogameController/Content/bin/Windows/Content/BooHide.xnb","TextureProcessor","Texture2DContent",16132,65621,0.1669141
+"C:/School/FA20/GP/MonogameController/MonogameController/Content/BooHunt.png","C:/School/FA20/GP/MonogameController/MonogameController/Content/bin/Windows/Content/BooHunt.xnb","TextureProcessor","Texture2DContent",14548,65621,0.0169939
+"C:/School/FA20/GP/MonogameController/MonogameController/Content/font.spritefont","C:/School/FA20/GP/MonogameController/MonogameController/Content/bin/Windows/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.4240053
+"C:/School/FA20/GP/MonogameController/MonogameController/Content/Mario.png","C:/School/FA20/GP/MonogameController/MonogameController/Content/bin/Windows/Content/Mario.xnb","TextureProcessor","Texture2DContent",22795,65621,0.0159952
+"C:/School/FA20/GP/MonogameController/MonogameController/Content/MarioJump.png","C:/School/FA20/GP/MonogameController/MonogameController/Content/bin/Windows/Content/MarioJump.xnb","TextureProcessor","Texture2DContent",18623,65621,0.0357286
